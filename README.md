@@ -12,4 +12,4 @@ All this data would be temporarily stored in json files.
 TODO
 
 ## Third Step: Make the data reachable to users
-We create a simply Python Telegram Bot
+We created a simply Python Telegram Bot
