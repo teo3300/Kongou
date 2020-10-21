@@ -1,0 +1,62 @@
+aircraft carrier
+aircraft maintenance carrier
+amphibious command ship
+anti-aircraft cruiser
+armed merchant cruiser
+armored cruiser
+attack cargo ship
+auxiliary cruiser
+auxiliary cruiser
+battlecruiser"
+battleship
+coastal defence ship
+corvette
+cruiser
+destroyer
+destroyer escort
+destroyer leader
+dreadnought
+escort and icebreaker
+escort carrier
+fighter catapult ship
+floating anti-aircraft battery
+flotilla leader
+frigate
+gunboat
+heavy cruiser
+ironclad
+landing ship, tank
+light aircraft carrier
+light cruiser
+merchant aircraft carrier
+minelayer
+minelayer cruiser
+minelayer destroyer
+minelayer light cruiser
+minesweeper
+minesweeper destroyer
+monitor
+motor torpedo boat
+night fighter direction vessel
+patrol vessel
+protected cruiser
+protected cruiser
+q-ship
+radio controlled target-ship and anti-aircraft training ship
+repair ship
+river gunboat
+river monitor
+riverine battleship
+seaplane carrier
+seaplane tender
+sloop
+special service ship
+submarine
+submarine tender
+super dreadnought
+supply escort and schnellboot tender
+torpedo boat
+training light cruiser
+training submarine
+training submarine
+yacht
